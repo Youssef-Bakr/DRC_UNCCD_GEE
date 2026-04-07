@@ -1,0 +1,1 @@
+https://code.earthengine.google.com/?asset=projects/ee-spectralsignaturensdi/assets/Egypt_all/Egypt_Governerates
