@@ -184,7 +184,7 @@ panel.widgets().set(1, Label01);
 var Label02 = ui.Label('Landsat 8 Level 2, Collection 2, Tier 1 \n LANDSAT/LC08/C02/T1_L2 \n Dataset Availability:2013–2026 \n Dataset Provider:USGS \n', {whiteSpace: 'pre'});
 panel.widgets().set(2, Label02);
 // ----------------------------------------------------------------------------------------
-var Label03 = ui.Label('Layers:\nNDVI-2022 subtract NDVI-2021\nNDVI-2021 subtract NDVI-2020\nNDVI-2022 subtract NDVI-2020\n{min: -1, max: 1, palette: [red, yellow, green]}', {whiteSpace: 'pre'});
+var Label03 = ui.Label('Layers:\nNDVI-2025 subtract NDVI-2024\nNDVI-2024 subtract NDVI-2023\nNDVI-2025 subtract NDVI-2023\n{min: -1, max: 1, palette: [red, yellow, green]}', {whiteSpace: 'pre'});
 panel.widgets().set(3, Label03);
 // ----------------------------------------------------------------------------------------
 var Label04 = ui.Label(' Dr. Mohamed AbdAlla & Eng. Youssef Mohamed Bakr\n    DRC Remote Sensing Unit\n    https://github.com/Youssef-Bakr/DRC_UNCCD_GEE', {whiteSpace: 'pre'});
