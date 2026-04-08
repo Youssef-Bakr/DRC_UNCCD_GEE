@@ -176,7 +176,7 @@ ui.root.insert(0, panel);
 // Labels
 // ----------------------------------------------------------------------------------------
 var Label01 = ui.Label(
-                        {value: 'Dakahlia (Vegetation Index)' ,style: {fontSize: '20px', fontWeight: 'bold'},}
+                        {value: 'Egypt (Vegetation Index)' ,style: {fontSize: '20px', fontWeight: 'bold'},}
                       );
 
 panel.widgets().set(1, Label01);
